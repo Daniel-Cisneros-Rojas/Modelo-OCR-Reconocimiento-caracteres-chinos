@@ -20,11 +20,17 @@ Puedes ver y ejecutar el proyecto completo en Google Colab:
 # https://colab.research.google.com/drive/1ZEByeOQKmgCP3-OQg_UmRPAjIPt2322e?usp=sharing
 
 ## Modelo en carpeta export_model
+
 model.keras → modelo entrenado listo para inferencia
+
 labels.json → lista de 50 caracteres en orden correcto del modelo
+
 metadata.json → información adicional (hanzi, pinyin, significado)
 
 <img width="574" height="668" alt="image" src="https://github.com/user-attachments/assets/bbcf3d4d-0a78-45f6-a794-fa107bee7d66" />
+
+<img width="423" height="621" alt="image" src="https://github.com/user-attachments/assets/00fe30b5-7e4c-40a1-ae99-5783c27b9906" />
+
 
 
 
