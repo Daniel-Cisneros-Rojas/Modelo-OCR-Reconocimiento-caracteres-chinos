@@ -29,7 +29,7 @@ metadata.json → información adicional (hanzi, pinyin, significado)
 
 <img width="574" height="668" alt="image" src="https://github.com/user-attachments/assets/bbcf3d4d-0a78-45f6-a794-fa107bee7d66" />
 
-<img width="423" height="621" alt="image" src="https://github.com/user-attachments/assets/00fe30b5-7e4c-40a1-ae99-5783c27b9906" />
+<img width="485" height="648" alt="image" src="https://github.com/user-attachments/assets/05b1926d-9b5a-4cfb-a780-442cbf423210" />
 
 
 
