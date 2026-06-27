@@ -1988,4 +1988,3 @@ else:
 
 print("="*60)
 
-!find / -name 'chinoV2.ipynb'
