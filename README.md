@@ -31,6 +31,8 @@ metadata.json → información adicional (hanzi, pinyin, significado)
 
 <img width="485" height="648" alt="image" src="https://github.com/user-attachments/assets/05b1926d-9b5a-4cfb-a780-442cbf423210" />
 
+<img width="482" height="645" alt="image" src="https://github.com/user-attachments/assets/fe66f884-9ca8-4ab9-9944-77873a1512ba" />
+
 
 
 
