@@ -1,4 +1,4 @@
-## OCR de Caracteres Chinos Manuscritos (50 clases)
+## OCR de Caracteres Chinos Manuscritos (50 clases) 
 # Descripción
 
 Este proyecto implementa un sistema de Reconocimiento Óptico de Caracteres (OCR) para caracteres chinos simplificados escritos a mano, utilizando TensorFlow y Deep Learning con Transfer Learning.
