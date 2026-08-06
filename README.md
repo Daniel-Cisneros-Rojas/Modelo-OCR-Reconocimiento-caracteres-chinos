@@ -25,15 +25,28 @@ labels.json → lista de 50 caracteres en orden correcto del modelo
 
 metadata.json → información adicional (hanzi, pinyin, significado)
 
-<p align="center">
+
+<div align="center">
+
+---
+  
+# Prueba 1
   
 <img width="574" height="668" alt="image" src="https://github.com/user-attachments/assets/bbcf3d4d-0a78-45f6-a794-fa107bee7d66" />
 
+---
+
+# Prueba 2
+
 <img width="574" height="668" alt="image" src="https://github.com/user-attachments/assets/05b1926d-9b5a-4cfb-a780-442cbf423210" />
+
+---
+
+#Prueba 3
 
 <img width="574" height="668" alt="image" src="https://github.com/user-attachments/assets/fe66f884-9ca8-4ab9-9944-77873a1512ba" />
 
-<\p>
+</div>
 
 
 
